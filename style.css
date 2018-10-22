@@ -31,17 +31,11 @@ main{
 		flex: 50%;
 		max-width: 50%;
 	}
-	.talighn{
-		min-height: 100%;
-	}
 }
 @media (max-width: 705px){
 	.row{
 		flex: 100%;
 		max-width: 100%;
-	}
-	.talighn{
-		min-height: 100%;
 	}
 }
 #nav-menu li{
@@ -80,12 +74,11 @@ li a {
 .filter-menu li:nth-child(1){
 	color: #FFFFFF;
 }
-.talighn{
+.leftbar{
 	text-align: right;
 	width: 300px;
 	float: left;
 	background-color: #242b2e;
-	min-height: 100vh;
 }
 .social {
 	width: 300px;
